@@ -1,4 +1,4 @@
 <?php
-$token = "ÑÞÄÀ ÂÀØ ÒÎÊÅÍ"; // Òîêåí áîòà
-$chat_id = "ÑÞÄÀ ID ×ÀÒÀ"; // ID ÷àòà
+$token = "615551330:AAG3lR5ieN7_6P7AytE7oBaxqGhDJE8bn1w"; // Òîêåí áîòà
+$chat_id = "206913596"; // ID ÷àòà
 ?>
